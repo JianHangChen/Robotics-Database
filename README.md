@@ -2,7 +2,7 @@
 
 This is an open database for robotics related topics.
 
-    Click [here](http://www.google.com) to visit Google.
+click [here](http://www.google.com) to visit google.
 
 
 The content of this repository is licensed under a
